@@ -1,7 +1,5 @@
 # 📝 Dpad Text Editor
 
-A feature-rich desktop text editor built with **Python & Tkinter** — a lightweight yet powerful Notepad alternative with themes, formatting tools, and find/replace functionality.
-
 ---
 ## 🎨 Screenshots
 
